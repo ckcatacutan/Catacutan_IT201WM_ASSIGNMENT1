@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0EC7983C-7ADE-4EF3-9680-595F17C93214}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Luyahan_IT202WM_ASSIGNMENT1</RootNamespace>
-    <AssemblyName>Luyahan_IT202WM_ASSIGNMENT1</AssemblyName>
+    <RootNamespace>Catacutan_IT201WM_ASSIGNMENT1</RootNamespace>
+    <AssemblyName>Catacutan_IT201WM_ASSIGNMENT1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
